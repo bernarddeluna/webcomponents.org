@@ -53,3 +53,7 @@ To generate a static version of the site that is ready to upload to a server (it
 ```
 jekyll build
 ```
+
+## License
+
+Source code is available under [MIT](http://opensource.org/licenses/MIT) license and content is under [Creative Commons BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US).
