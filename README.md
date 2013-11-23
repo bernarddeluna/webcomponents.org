@@ -1,6 +1,10 @@
 # Web Components Strawman
 
-Home to the Web Components strawman site.
+Home to the Web Components strawman site. This is where pioneers and community-members of the Web 
+Components ecosystem (like Polymer, X-tags, and other interested parties) document web components 
+best practices so that others can follow the same path instead of needlessly striking out on their own.
+
+We welcome any and all contributions. Please feel free to get involved on the issue tracker.
 
 ## Getting started
 
