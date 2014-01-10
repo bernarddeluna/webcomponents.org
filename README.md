@@ -10,7 +10,7 @@ We welcome any and all contributions. Please feel free to get involved on the is
 
 One of the driving goals behind WC.org is that long-term some of our goals include features which are not strictly documentation on the platform:
 
-* Best practices around component authorship when it comes to polyfills and frameworks built on top of web components. Imo, docs for platform features (Shadow DOM, Imports etc) eventually should go on WPD but best practices are something subjective that the community should be able to evolve in the open. I see this type of content being a better fit for WC.org.
+* Best practices around component authorship when it comes to polyfills and frameworks built on top of web components. In our opinion, docs for platform features (Shadow DOM, Imports etc) eventually should go on [WebPlatform.org](http://www.webplatform.org/) but best practices are something subjective that the community should be able to evolve in the open. We see this type of content being a better fit for WC.org.
 * Enabling a search and discovery mechanism for Web Components authored by the community (search + gallery + voting to surface high-quality components) built on top of existing package management solutions
 * Enabling a central point of discussion around WCs (once again that are vendor-neutral). 
 
