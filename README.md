@@ -6,6 +6,16 @@ best practices so that others can follow the same path instead of needlessly str
 
 We welcome any and all contributions. Please feel free to get involved on the issue tracker.
 
+## Why WebComponents.org?
+
+One of the driving goals behind WC.org is that long-term some of our goals include features which are not strictly documentation on the platform:
+
+* Best practices around component authorship when it comes to polyfills and frameworks built on top of web components. Imo, docs for platform features (Shadow DOM, Imports etc) eventually should go on WPD but best practices are something subjective that the community should be able to evolve in the open. I see this type of content being a better fit for WC.org.
+* Enabling a search and discovery mechanism for Web Components authored by the community (search + gallery + voting to surface high-quality components) built on top of existing package management solutions
+* Enabling a central point of discussion around WCs (once again that are vendor-neutral). 
+
+The audience is less novice developer and more advanced developer. It's a place where vendors and savvy developers can chat.
+
 ## Getting started
 
 The site is made with [Jekyll](https://github.com/mojombo/jekyll/), a static generator in Ruby. It also uses [redcarpet](https://github.com/vmg/redcarpet) to process the markdown in the site.
